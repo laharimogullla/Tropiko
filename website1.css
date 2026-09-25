@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.one img{
+	width: 60px;
+}
+.two ul li{
+	display: inline;
+	gap: 10px;
+}
+.two ul li a{
+	padding-left: 20px;
+	text-decoration: none;
+	color: black;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.main{
+	display: flex;
+	justify-content: space-between;
+}
+.one{
+	display: flex;
+	justify-content: space-between;
+	gap: 8px;
+	text-decoration: none;
+	color: orange;
+}
+.one2 a{
+	color: black;
+	text-decoration: none;
+}
+.orange{
+	background-color: orange;
+	color: white;
+	padding: 8px;
+	margin-left: 15px;
+	align-items: center;
+} 
+.three1 ul li{
+	display: inline;
+	gap: 10px;
+}
+
+
+.three{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 70px;
+}
+.orange1{
+	background-color: orange;
+	color: white;
+	padding: 5px 7px;
+	font-size: 18px;
+	border: none;
+}
+.orange2{
+	background-color: black;
+	color: white;
+	margin-left: 5px;
+	padding: 5px 7px;
+	font-size: 18px;
+    border: none;
+}
+.three1 h1{
+	font-size: 70px;
+}
+.four{
+	align-items: center;
+	text-align: center;
+	margin-top: 150px;	
+	margin-bottom: 20px;
+}
+.four p{
+	word-spacing: 5px;
+	font-size: 20px;
+	margin-top: -15px;
+}
+.four h1{
+	font-size: 35px;
+}
+.five{
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+	text-align: center;
+	margin-top: 70px;
+
+}
+.five1{
+	border: 1px grey solid;
+	padding: 15px;
+}
+.five2{
+	border: 1px grey solid;
+	padding: 15px;
+}
+.five3{
+	border: 1px grey solid;
+	padding: 15px;
+}
+.five1 h4{
+	color: orange;
+	font-size: 25px;
+}
+.five2 h4{
+	color: orange;
+	font-size: 25px;
+}
+.five3 h4{
+	color: orange;
+	font-size: 25px;
+}
+.five img{
+	width: 60px;
+}
+
+.main1{
+	text-align: center;
+}
+.orange3{
+	background-color: black;
+	color: white;
+	padding: 20px;
+	margin-top: 25px;
+	border: none;
+	font-size: 17px;
+}
+.six{
+	text-align: center;
+	color: black;
+}
+.six h1{
+	font-size: 35px;
+	margin-top: 55px;
+}
+.six p{
+	margin-top: -16px;
+	word-spacing: 5px;
+	font-size: 20px;
+}
+
+.seven1 h1{
+    font-size: 30px;
+}
+.seven1 p{
+	font-size: 20px;
+}
+.seven2 img{
+	width: 250px;
+}
+.orange4{
+	background-color: black;
+	color: white;
+	padding: 15px 35px;
+	margin-top: 25px;
+	border: none;
+	font-size: 15px;
+}
+
+.eight1 h1{
+    font-size: 30px;
+}
+.eight1 p{
+	font-size: 20px;
+}
+.eight2 img{
+	width: 100px;
+}
+.orange5{
+	background-color: black;
+	color: white;
+	padding: 15px 35px;
+	margin-top: 25px;
+	border: none;
+	font-size: 15px;
+}
+
+.nine1 h1{
+    font-size: 30px;
+}
+.nine1 p{
+	font-size: 20px;
+}
+.nine2 img{
+	width: 220px;
+
+}
+.orange6{
+	background-color: black;
+	color: white;
+	padding: 15px 35px;
+	margin-top: 25px;
+	border: none;
+	font-size: 15px;
+}
+.main3{
+   display: grid;
+   grid-template-columns: 70% 30%;
+   gap: 50px;
+   margin-top: 100px;
+}
+.bg{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	background-image: url("tasty-image.png");
+	background-position: center;
+	background-size: cover;
+	padding: 150px 0px;
+	margin-top: 100px;
+	 font-family: "Roboto", sans-serif;
+	}
+	.eleven{
+		text-align: center;
+		margin-top: 100px;
+	}
+	.eleven h1{
+		font-size: 40px;
+		 font-family: "Roboto", sans-serif;
+		 letter-spacing: 2px;
+	}
+	.eleven p{
+		font-size: 20px;
+		margin-top: -10px;
+	}
+	.eleven img{
+		margin-top: 50px;
+	}
+	.eleven h2{
+		font-size: 30px;
+		 font-family: "Roboto", sans-serif;
+		 letter-spacing: 2px;
+		 margin-top: -5px;
+	}
+	.eleven1 p{
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.twelve{
+		display: grid;
+		 grid-template-columns: 50% 50%;
+		color: black;
+		margin-top: 65px;
+	}
+	.twelve1{
+		margin-left: 475px;
+		font-size: 38px;
+	}
+	.twelve2{
+		font-size: 38px;
+	}
+	.thirteen{
+		color: black;
+		font-family: "Roboto", sans-serif;
+		font-size: 20px;
+		margin-top: 70px;
+		margin-bottom: -40px;
+	}
+	.fourteen1{
+		margin-top: 100px;
+	}
+	.text{
+		border: white;
+		font-size: 18px;
+	}
+	
+	.name{
+		border-bottom: 1px solid black;
+		width: 70%;
+
+	}
+	
+	.name1{
+		border-bottom: 1px solid black;
+		width: 70%;
+
+	}
+	.text1{
+		border: white;
+		font-size: 18px;
+		margin-top: 24px;
+	}
+	.name2{
+		border-bottom: 1px solid black;
+		width: 70%;
+
+	}
+	.text2{
+		border: white;
+		font-size: 18px;
+		margin-top: 24px;
+
+	}
+	.name3{
+		border-bottom: 1px solid black;
+		width: 70%;
+
+	}
+	.text3{
+		border: white;
+		font-size: 18px;
+		margin-top: 80px;
+		
+	}
+	.main4{
+		background-image: url("orange-dish.png");
+		background-position: right;
+		height: 500px;
+		background-repeat: no-repeat;
+	}
+	.name4{
+		border: none;
+		font-size: 14px;
+		background-color: orange;
+		color: white;
+		padding: 7px 20px;
+		margin-top: 40px;
+	}
+	.map{
+		margin-top: 50px;
+	}
+	.sixteen{
+		display: flex;
+		justify-content: space-between;
+		color: black;
+		font-size: 18px;
+	}
+	.sixteen1{
+		width: 100px;
+	}
+	.sixteen2{
+		width: 100px;
+	}
+.sixteen3{
+		width: 100px;
+	}
+	.sixteen4 i{
+		font-size: 30px;
+	}
+
+	.sixteen4 h4{
+		font-family: "Roboto", sans-serif;
+		margin-top: 30px;
+		font-size: 25px;
+	}
+	.sixteen h3{
+		font-size: 25px;
+	}
+	.sixteen4 input{
+		border: 2px solid black;
+		padding: 5px;
+		margin-top: -9px;
+	}
+	.name5{
+		background-color: orange;
+		color: white;
+		padding: 10px 17px;
+		margin-top: 20px;
+		border: none;
+		font-size: 15PX;
+	}
+	.bg3{
+		color: black;
+		background-color: wheat;
+		padding: 10px;
+		text-align: center;
+		margin-top: 20px;
+	}
+
+
+
+
+
+
+	@media screen and (min-width: 320px) and (max-width: 468px){
+      .main{
+      	display: block;
+      	text-align: center;
+      }
+      .three{
+      	display: block;
+      	text-align: center;
+      }
+      .five{
+      	display: block;
+      	text-align: center;
+      }
+      .main3{
+      	display: block;
+      	text-align: center;
+      }
+      .twelve{
+      	display: block;
+      	text-align: center;
+      }
+      .sixteen{
+      	display: block;
+      	text-align: center;
+      }
+      .three2 img{
+      	width: 100%;
+      	margin-top: 70px;
+      }
+      .map iframe{
+      	width: 100%;
+      }
+      .twelve1{
+          margin-left: -100px;
+      }
+      .twelve2{
+      	margin-top: -45px;
+      }
+      .eleven img{
+      	width: 180px;
+      }
+      .ten{
+      	font-size: 30px;
+
+      }
+      .two{
+      	display: none;
+      }
+      .five2{
+      	margin-top: 30px;
+      }
+      .five3{
+      	margin-top: 30px;
+      }
+      .orange4{
+      	margin-bottom: 40px;
+      }
+      .orange5{
+      	margin-bottom: 40px;
+      }
+      .orange6{
+      	margin-bottom: 40px;
+      }
+      .sixteen1{
+      	width: 100%;
+      }
+      .sixteen2{
+      	width: 100%;
+      }
+      .sixteen3{
+      	width: 100%;
+      }
+      .main4{
+      	height: 50%;
+
+      }
+      .bg{
+      	padding: 80px 0px;
+      	width: 100%;
+      }
+      .three1 h1{
+      	font-size: 40px;
+      }
+	}
+
+
+
+
