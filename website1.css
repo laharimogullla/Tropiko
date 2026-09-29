@@ -153,6 +153,17 @@
 .seven2 img{
 	width: 250px;
 }
+.five1:hover{
+	border-top: 5px solid orange;
+}
+.five2:hover{
+	border-top: 5px solid orange;
+
+}
+.five3:hover{
+	border-top: 5px solid orange;
+
+}
 .orange4{
 	background-color: black;
 	color: white;
